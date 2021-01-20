@@ -1,0 +1,8 @@
+{
+  "Item": {
+    "id": "number",
+    "name": "string",
+    "bought": "date",
+    "bestBefore": "date",
+  }
+}
